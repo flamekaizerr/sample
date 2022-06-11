@@ -1,2 +1,3 @@
 # sample
-sample1
+this is a simple readme
+
